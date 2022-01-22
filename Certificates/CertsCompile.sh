@@ -1,0 +1,1 @@
+gcc gen_verify_certs.c Tools/fmea.c Tools/tools.c Tools/rsa.c Tools/sdes.c -lm

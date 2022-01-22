@@ -1,0 +1,1 @@
+gcc Server.c ../../Tools/fmea.c ../../Tools/tools.c ../../Tools/rsa.c ../../Tools/sdes.c ../../Tools/difh.c -o Server -lm
